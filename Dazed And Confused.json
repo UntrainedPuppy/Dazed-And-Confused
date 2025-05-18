@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V1",
-	"Version": 1747082369,
+	"Name": "Dazed And Confused V2",
+	"Version": 1747605225,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -20,6 +20,8 @@
 				"28",
 				"29",
 				"33",
+				"279",
+				"280",
 				"45",
 				"268",
 				"267",
@@ -35,6 +37,7 @@
 				"81",
 				"82",
 				"86",
+				"281",
 				"90",
 				"96",
 				"98",
