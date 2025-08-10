@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V2",
-	"Version": 1747605225,
+	"Name": "Dazed And Confused V3",
+	"Version": 1754840417,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,6 +11,7 @@
 				"2",
 				"5",
 				"52",
+				"13",
 				"16",
 				"17",
 				"18",
@@ -2409,6 +2410,54 @@
 			"Name": "The Ghoul",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Animatronic",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
