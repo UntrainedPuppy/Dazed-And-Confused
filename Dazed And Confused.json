@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V4",
-	"Version": 1755126314,
+	"Name": "Dazed And Confused V5",
+	"Version": 1755815208,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,7 +21,6 @@
 				"28",
 				"29",
 				"33",
-				"279",
 				"280",
 				"45",
 				"268",
@@ -98,6 +97,14 @@
 				[
 					"21",
 					"254"
+				],
+				[
+					"21",
+					"279"
+				],
+				[
+					"279",
+					"127"
 				]
 			],
 			"KillerComboPerkBans": [
