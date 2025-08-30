@@ -1,6 +1,6 @@
 {
 	"Name": "Dazed And Confused V7",
-	"Version": 1756077034,
+	"Version": 1756564557,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -101,7 +101,7 @@
 				],
 				[
 					"21",
-					"254"
+					"253"
 				],
 				[
 					"21",
@@ -112,28 +112,7 @@
 					"127"
 				]
 			],
-			"KillerComboPerkBans": [
-				[
-					"132",
-					"191"
-				],
-				[
-					"160",
-					"210"
-				],
-				[
-					"151",
-					"170"
-				],
-				[
-					"183",
-					"184"
-				],
-				[
-					"211",
-					"213"
-				]
-			]
+			"KillerComboPerkBans": []
 		}
 	],
 	"KillerOverride": [
