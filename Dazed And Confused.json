@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V8",
-	"Version": 1759229222,
+	"Name": "Dazed And Confused V9",
+	"Version": 1759781041,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -117,7 +117,11 @@
 		{
 			"Name": "WEAK KILLERS",
 			"SurvivorIndvPerkBans": [
-				"8"
+				"6",
+				"8",
+				"50",
+				"102",
+				"121"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -327,7 +331,7 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "The Only Bans Are General + Combo Bans;\nEach Team Has 12 Shared Survivor Perks \nEach Team Has 12 Shared Killer Perks",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"28"
 			],
@@ -402,7 +406,7 @@
 		{
 			"Name": "The Hag",
 			"KillerNotes": "The Only Bans Are General + Combo Bans;\nEach Team Has 12 Shared Survivor Perks \nEach Team Has 12 Shared Killer Perks",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"16"
 			],
@@ -1540,10 +1544,12 @@
 				"54"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1745,12 +1751,10 @@
 				"35"
 			],
 			"BalanceTiers": [
-				0,
-				1
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				1
+				0
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2193,10 +2197,12 @@
 				"54"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
