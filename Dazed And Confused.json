@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V9",
-	"Version": 1759781041,
+	"Name": "Dazed And Confused V12",
+	"Version": 1760122752,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -8,18 +8,15 @@
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
 				"0",
-				"2",
 				"285",
 				"5",
 				"52",
 				"13",
 				"16",
-				"17",
 				"18",
 				"247",
 				"19",
 				"20",
-				"28",
 				"288",
 				"29",
 				"33",
@@ -32,7 +29,6 @@
 				"59",
 				"289",
 				"62",
-				"259",
 				"269",
 				"73",
 				"74",
@@ -44,7 +40,6 @@
 				"90",
 				"96",
 				"98",
-				"100",
 				"275",
 				"105",
 				"263",
@@ -119,11 +114,25 @@
 			"SurvivorIndvPerkBans": [
 				"6",
 				"8",
+				"17",
 				"50",
+				"100",
 				"102",
 				"121"
 			],
 			"KillerIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "S Tier",
+			"SurvivorIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181",
+				"213",
+				"234",
+				"237"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		}
@@ -134,13 +143,17 @@
 			"KillerNotes": "The Only Bans Are General + Combo Bans;\nEach Team Has 12 Shared Survivor Perks \nEach Team Has 12 Shared Killer Perks",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"18",
+				"33",
+				"40"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -153,13 +166,19 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -187,15 +206,19 @@
 		{
 			"Name": "The Wraith",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"20",
+				"34",
+				"36"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -207,14 +230,32 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -229,21 +270,31 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "***Offerings Are As Follows***\n\nKiller: \n\n1x Cut Coin\n\nSurvivor:\n\n1x Annotated Blueprint\n1x Bloodied Blueprint\n2x Vigo's Shroud",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"5",
+				"16",
+				"31",
+				"38",
+				"47"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -255,17 +306,38 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				40,
+				41,
+				42,
+				43
+			],
+			"ItemWhitelist": [
+				0,
+				8,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						6
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -277,8 +349,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nurse",
@@ -863,16 +941,22 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "***Offerings Are As Follows***\n\nKiller:\n\n1x Cut Coin\n\nSurvivor:\n\n1x Annotated Blueprint\n1x Bloodied Blueprint\n1x Vigo's Shroud",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"10",
+				"20",
+				"55",
+				"48",
+				"41"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -884,14 +968,31 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				239,
+				240,
+				241,
+				242
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -906,8 +1007,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Legion",
@@ -2605,10 +2712,12 @@
 				"52"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
