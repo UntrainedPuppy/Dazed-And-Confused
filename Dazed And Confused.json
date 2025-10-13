@@ -1,6 +1,6 @@
 {
-	"Name": "Dazed And Confused V12",
-	"Version": 1760122752,
+	"Name": "Dazed And Confused V13",
+	"Version": 1760314280,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -297,7 +297,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"177"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
